@@ -10,7 +10,7 @@
 <br>
 
 El proyecto fue realizado en el marco del programa One Oracle impartido por Alura Latam.
-El mismo consistía en la realización de una API REST realizada con Java Spring que simulara el funcionamiento del foro del aula virtual de Alura
+El mismo consiste en la realización de una API REST realizada con Java Spring que simulara el funcionamiento del foro del aula virtual de Alura
 y realizara una CRUD a una base de Datos MySQL.
 
 Se han implentado las siguientes dependencias:
