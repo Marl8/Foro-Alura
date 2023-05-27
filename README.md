@@ -21,5 +21,5 @@ Se han implentado las siguientes dependencias:
      * Spring Security
      * Spring JWT
      * Spring Validator
-     * Sprink Lombok
+     * Spring Lombok
      * Swagger
